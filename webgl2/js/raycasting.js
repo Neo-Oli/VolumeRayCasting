@@ -37,6 +37,13 @@ var volumes = {
 		,slices: 128
 		,zScale: 1
 	}
+	,sculpture: {
+		 src: "./images/sculpture.png"
+		,name: "Sculpture"
+		,columns: 16
+		,slices: 128
+		,zScale: 1
+	}
 };
 
 
